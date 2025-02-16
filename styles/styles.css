@@ -88,7 +88,7 @@ h1 {
 }
 
 .info-container {
-    margin: 20px 150px;
+    margin: 30px 150px 80px 150px;
 }
 
 h2 {
@@ -124,10 +124,11 @@ h2 {
     width: 100px;
     color: gray;
     opacity: 80%;
+    font-size: 12px;
 }
 
 .quote-container {
-    padding: 50px 250px;
+    padding: 100px 250px;
     background-color: #e5e7eb;
 }
 
@@ -144,7 +145,7 @@ h2 {
 }
 
 .sign-up-container {
-    margin: 20px 200px;
+    margin: 100px 200px;
 }
 
 .sign-up-box {
