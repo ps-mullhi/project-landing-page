@@ -173,8 +173,10 @@ h2 {
     font-size: 14px;
 }
 
-.white-button-outline {
+.second-sign-up {
     border: 2px solid white;
+    max-height: 50px;
+    align-self: center;
 }
 
 .footer {
